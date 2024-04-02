@@ -110,3 +110,12 @@ junit.xml
 
 # Ignore Kaggle Submission
 *.csv
+
+# Ignore ENV
+.env*
+
+# Ignore Jupyter Notebook Checkpoints and W&B
+.ipynb_checkpoints
+**/wandb
+
+**/dataset
