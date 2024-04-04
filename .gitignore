@@ -121,3 +121,6 @@ junit.xml
 **/dataset
 HW_06/large_prepared_data
 HW_06/weights
+
+HW_07/data
+HW_07/facades
